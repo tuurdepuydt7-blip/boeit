@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Kleur Veranderaar",
+  "version": "1.0",
+  "description": "Verandert de achtergrond van een pagina naar een willekeurige kleur.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
